@@ -1,6 +1,4 @@
-==============================================================
 			Banking Program
-==============================================================
 
 Ensure that you have python 3 and above installed in your machine
 
