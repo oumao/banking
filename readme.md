@@ -1,4 +1,4 @@
-##########Banking Program############
+Welcome to the Banking Program
 
 Ensure that you have python 3 and above installed in your machine
 
@@ -30,5 +30,5 @@ Step 4:
 	C:\Users\user\Desktop\Python\banking>python main.py
 
 
-*****************Enjoy***************************************
+*Enjoy*
 
